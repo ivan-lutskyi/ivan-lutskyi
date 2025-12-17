@@ -23,11 +23,4 @@ React · Nest.js · MongoDB
 
 ---
 
-### 🧠 Interests
-- Software design & maintainability  
-- Reducing complexity in large systems  
-- Reliable internal tools
-
----
-
 📫 **LinkedIn:** [https://linkedin.com/in/ivan-lutskyi](https://www.linkedin.com/in/ivan-lutskyi-648bb1193/)
