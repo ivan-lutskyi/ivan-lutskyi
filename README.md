@@ -1,25 +1,33 @@
-Hi, I'm Ivan — a senior front-end engineer focused on building scalable, data-driven web applications.
+### Hi, I'm Ivan 👋
 
-Currently working on enterprise fintech systems using React and TypeScript.
+Senior front-end engineer focused on building **scalable, data-driven web applications**.
 
-I like systems that are easy to reason about — especially six months later.
+Currently working on **enterprise fintech systems** using React and TypeScript.
 
-### Core focus
-- Front-end engineering (React, TypeScript)
-- UI architecture for large-scale applications
-- Data-intensive and real-time systems
+---
 
-### Selected work
-- **NFTBased** — full-stack cryptocurrency MVP  
-  React, Nest.js, MongoDB  
-  Team leadership, system recovery, public demo
+### 🧭 Core focus
+- Front-end engineering — **React, TypeScript**
+- UI architecture for **large-scale applications**
+- **Data-intensive** and real-time systems
 
-- **FRÉO e-commerce platform** — custom online store with CRM  
-  Architecture, backend development, payments, deployment
+---
 
-### Interests
-- Software design and maintainability
-- Reducing complexity in large systems
-- Building reliable internal tools
+### 🛠️ Selected work
+**NFTBased** — full-stack cryptocurrency MVP  
+React · Nest.js · MongoDB  
+→ team leadership, system recovery, public demo
 
-📫 LinkedIn: [https://linkedin.com/in/ivan-lutskyi](https://www.linkedin.com/in/ivan-lutskyi-648bb1193/)
+**E-commerce platform template** — custom online store with CRM  
+→ architecture, backend, payments, deployment
+
+---
+
+### 🧠 Interests
+- Software design & maintainability  
+- Reducing complexity in large systems  
+- Reliable internal tools
+
+---
+
+📫 **LinkedIn:** [https://linkedin.com/in/ivan-lutskyi](https://www.linkedin.com/in/ivan-lutskyi-648bb1193/)
