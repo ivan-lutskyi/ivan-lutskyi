@@ -19,6 +19,7 @@ Currently working on **enterprise fintech systems** using React and TypeScript.
 React · Nest.js · MongoDB  
 → team leadership, system recovery, public demo
 → took over a failing MVP, rebuilt core architecture, delivered a stable public demo
+→ Demo: https://nftbased.vercel.app/home
 
 **E-commerce platform template** — custom online store with CRM  
 → architecture, backend, payments, deployment
